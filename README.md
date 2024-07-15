@@ -1,18 +1,26 @@
-# <div align="center">I've been waiting for you.</div>  
-<div align="center">夜幕降下  舞台开启</div>  
-<br/>
+<h1 align="center">正是江南好风景 落花时节又逢君</h1>  
 
-<div align="center">
-<img src=https://img.shields.io/badge/C%2B%2B-black?&style=for-the-badge&logo=cplusplus&logoColor=white />
-<img src=https://img.shields.io/badge/C%23-black?&style=for-the-badge&logo=csharp&logoColor=white />
-<img src=https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python&logoColor=white />
-</div>  
+## About Me
 
-## GitHub Status  
+- 🌱 I’m currently learning **Deep Learning**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=morsiusiurandum&count_private=false&show_icons=true&theme=transparent" alt="Starts"/>
+- 👯 I’m interested in **Game Develops**
+
+- 👨‍💻 Some projects are available in [Flicker Studio](https://github.com/flicker-studio)
+
+- 📫 How to reach me : **Morsiusiurandum@outlook.com**
+
+- ⚡ Fun fact : The title is from [Du Fu](https://pam.wikipedia.org/wiki/Du_Fu)'s poem *Meeting Li Guinian in Jiangnan*.
+
+## As Maintainer
+
+<a href="https://github.com/flicker-studio/NPRP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flicker-studio&repo=NPRP" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=morsiusiurandum&theme=transparent&layout=compact&langs_count=8&card_width=320" alt="Languages" />
+<a href="https://github.com/flicker-studio/RimeEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flicker-studio&repo=RimeEditor" />
 </a>
+
+****
+
+<div align="center">明明暗暗 惟时何为</div>  
